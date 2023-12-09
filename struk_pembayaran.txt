@@ -1,0 +1,9 @@
+
+===== STRUK PEMBAYARAN LISTRIK =====
+Kategori Daya: 1
+Jumlah Pemakaian kWh: 200.0 kWh
+Tarif per kWh: Rp1352.00
+Total Pembayaran: Rp270400.00
+Jumlah Pembayaran: Rp300000.00
+Kembalian: Rp29600.00
+Terima kasih atas pembayaran Anda!
